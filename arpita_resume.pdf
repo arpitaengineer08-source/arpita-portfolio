@@ -1,0 +1,90 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 5084 >>
+stream
+0.06 0.12 0.25 rg BT /F2 22 Tf 42.0 805.0 Td (ARPITA SHARMA) Tj ET
+0.30 0.35 0.40 rg BT /F1 9.5 Tf 42.0 791.0 Td (+91 8091192397  |  Shimla Rural, Himachal Pradesh  |  arpitaengineer08@gmail.com) Tj ET
+0.15 0.35 0.70 rg BT /F1 9.5 Tf 42.0 779.0 Td (LinkedIn: linkedin.com/in/arpitasharma-9ala38lb7   |   GitHub: github.com/arpitaengineer08-source) Tj ET
+0.15 0.25 0.45 RG 1.20 w 42.0 771.0 m 553.3 771.0 l S
+0.08 0.18 0.36 rg BT /F2 11 Tf 42.0 751.0 Td (EDUCATION) Tj ET
+0.20 0.30 0.50 RG 0.80 w 42.0 747.0 m 553.3 747.0 l S
+0.10 0.15 0.20 rg BT /F2 10 Tf 42.0 735.0 Td (SRM University, Sonepat, Haryana) Tj ET
+0.35 0.40 0.45 rg BT /F3 9.5 Tf 443.3 735.0 Td (Expected Aug 2027) Tj ET
+0.20 0.25 0.30 rg BT /F1 9.5 Tf 42.0 723.0 Td (Bachelor of Technology in Computer Science & Engineering \(Data Science & AI\)) Tj ET
+0.08 0.18 0.36 rg BT /F2 11 Tf 42.0 697.0 Td (TECHNICAL SKILLS) Tj ET
+0.20 0.30 0.50 RG 0.80 w 42.0 693.0 m 553.3 693.0 l S
+0.15 0.20 0.25 rg BT /F2 9.5 Tf 42.0 681.0 Td (Technical:) Tj ET
+0.20 0.25 0.30 rg BT /F1 9.5 Tf 127.0 681.0 Td (Python, Data Structures & Algorithms, DBMS, Machine Learning, Data Analysis) Tj ET
+0.15 0.20 0.25 rg BT /F2 9.5 Tf 42.0 668.0 Td (Development:) Tj ET
+0.20 0.25 0.30 rg BT /F1 9.5 Tf 127.0 668.0 Td (Web Development \(HTML5, CSS3, JS\), Mobile App Development, Flask, REST APIs) Tj ET
+0.15 0.20 0.25 rg BT /F2 9.5 Tf 42.0 655.0 Td (Languages:) Tj ET
+0.20 0.25 0.30 rg BT /F1 9.5 Tf 127.0 655.0 Td (English \(C2 Proficient\), Hindi \(C2 Native\), French \(Intermediate\)) Tj ET
+0.08 0.18 0.36 rg BT /F2 11 Tf 42.0 628.0 Td (EXPERIENCE & LEADERSHIP) Tj ET
+0.20 0.30 0.50 RG 0.80 w 42.0 624.0 m 553.3 624.0 l S
+0.10 0.15 0.20 rg BT /F2 10 Tf 42.0 612.0 Td (AI Lytics \(Coding Society\)) Tj ET
+0.35 0.40 0.45 rg BT /F3 9.5 Tf 463.3 612.0 Td (Sep 2025 - Present) Tj ET
+0.15 0.35 0.60 rg BT /F3 9.5 Tf 42.0 601.0 Td (Co-ordinator) Tj ET
+0.25 0.30 0.35 rg BT /F1 9 Tf 54.0 590.0 Td (- Coordinated nationwide and campus technical events, workshops, and hackathons focused on AI/ML.) Tj ET
+0.25 0.30 0.35 rg BT /F1 9 Tf 54.0 580.0 Td (- Managed team operations, peer mentoring sessions, and hands-on coding competitions.) Tj ET
+0.10 0.15 0.20 rg BT /F2 10 Tf 42.0 566.0 Td (SPNF-HP, Shimla) Tj ET
+0.35 0.40 0.45 rg BT /F3 9.5 Tf 463.3 566.0 Td (Jul 2024 - Aug 2024) Tj ET
+0.15 0.35 0.60 rg BT /F3 9.5 Tf 42.0 555.0 Td (Engineering Intern) Tj ET
+0.25 0.30 0.35 rg BT /F1 9 Tf 54.0 544.0 Td (- Assisted engineering staff in software tasks and gained practical knowledge of production workflows.) Tj ET
+0.08 0.18 0.36 rg BT /F2 11 Tf 42.0 516.0 Td (PROJECTS) Tj ET
+0.20 0.30 0.50 RG 0.80 w 42.0 512.0 m 553.3 512.0 l S
+0.10 0.15 0.20 rg BT /F2 9.5 Tf 42.0 500.0 Td (Amazon Clone Web App) Tj ET
+0.35 0.40 0.50 rg BT /F3 8.5 Tf 383.3 500.0 Td ([Flask, SQLite, HTML5, CSS3, JavaScript]) Tj ET
+0.25 0.30 0.35 rg BT /F1 8.8 Tf 54.0 490.0 Td (- Full-stack e-commerce web platform featuring user authentication, session security, product catalogs, and cart workflows.) Tj ET
+0.10 0.15 0.20 rg BT /F2 9.5 Tf 42.0 478.0 Td (Emotion-Based Music Player) Tj ET
+0.35 0.40 0.50 rg BT /F3 8.5 Tf 383.3 478.0 Td ([Python, OpenCV, Computer Vision, Deep Learning]) Tj ET
+0.25 0.30 0.35 rg BT /F1 8.8 Tf 54.0 468.0 Td (- Affective computing pipeline analyzing facial landmarks via webcam in real-time to curate tailored mood-enhancing playlists.) Tj ET
+0.10 0.15 0.20 rg BT /F2 9.5 Tf 42.0 456.0 Td (AI Chat Assistant for PDFs) Tj ET
+0.35 0.40 0.50 rg BT /F3 8.5 Tf 383.3 456.0 Td ([Python, NLP, Document Parsing, REST APIs]) Tj ET
+0.25 0.30 0.35 rg BT /F1 8.8 Tf 54.0 446.0 Td (- Natural language Q&A assistant indexing multi-page research documents to deliver context-grounded citations without hallucination.) Tj ET
+0.10 0.15 0.20 rg BT /F2 9.5 Tf 42.0 434.0 Td (Hand Gesture Piano System) Tj ET
+0.35 0.40 0.50 rg BT /F3 8.5 Tf 383.3 434.0 Td ([Python, OpenCV, MediaPipe, Real-Time Audio]) Tj ET
+0.25 0.30 0.35 rg BT /F1 8.8 Tf 54.0 424.0 Td (- Contactless virtual musical instrument tracking 21 skeletal hand coordinates in real time to synthesize harmonic piano notes.) Tj ET
+0.10 0.15 0.20 rg BT /F2 9.5 Tf 42.0 412.0 Td (Smart India Hackathon 2025 Hardware System) Tj ET
+0.35 0.40 0.50 rg BT /F3 8.5 Tf 383.3 412.0 Td ([Embedded Systems, Prototyping, IoT]) Tj ET
+0.25 0.30 0.35 rg BT /F1 8.8 Tf 54.0 402.0 Td (- Engineered national-finalist embedded system as part of Team Vajraa under strict 36-hour physical hackathon constraints.) Tj ET
+0.08 0.18 0.36 rg BT /F2 11 Tf 42.0 376.0 Td (HONORS & ACHIEVEMENTS) Tj ET
+0.20 0.30 0.50 RG 0.80 w 42.0 372.0 m 553.3 372.0 l S
+0.10 0.15 0.20 rg BT /F2 9.8 Tf 42.0 360.0 Td (Finalist - Smart India Hackathon \(SIH\) 2025 \(Hardware Edition\)) Tj ET
+0.35 0.40 0.45 rg BT /F3 9.5 Tf 503.3 360.0 Td (2025) Tj ET
+0.25 0.30 0.35 rg BT /F1 9 Tf 54.0 349.0 Td (- Represented Team Vajraa at GIET University, Gunupur in India's premier nationwide hackathon.) Tj ET
+0.25 0.30 0.35 rg BT /F1 9 Tf 54.0 339.0 Td (- Recognized by judges for rapid physical prototyping, real-time debugging, and innovative problem solving.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000267 00000 n 
+0000005403 00000 n 
+0000005473 00000 n 
+0000005548 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+5626
+%%EOF

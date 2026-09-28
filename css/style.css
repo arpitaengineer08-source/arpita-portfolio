@@ -1,0 +1,238 @@
+/* ==========================================================================
+   ARPITA SHARMA - ORIGINAL MINIMALIST & CLASSY DESIGN
+   Clean, sophisticated, modern Scandinavian/Swiss-inspired aesthetic:
+   Refined typography, delicate hairline borders, generous spacing,
+   warm off-white canvas, and understated elegance.
+   ========================================================================== */
+
+:root {
+  /* Surface & Canvas */
+  --bg-page: #fbfbfb;
+  --bg-card: #ffffff;
+  --bg-card-hover: #ffffff;
+  --bg-subtle: #f4f4f5;
+  --bg-tag: #f4f4f5;
+
+  /* Borders & Dividers */
+  --border-hairline: #e4e4e7;
+  --border-focus: #18181b;
+  --border-subtle: #f0f0f2;
+
+  /* Typography Palette */
+  --text-primary: #18181b;      /* Deep zinc/charcoal */
+  --text-secondary: #52525b;    /* Mid zinc */
+  --text-muted: #71717a;        /* Soft zinc */
+  --text-light: #a1a1aa;
+
+  /* Accent Colors (Subtle & Restrained) */
+  --accent-navy: #1e3a8a;
+  --accent-blue: #2563eb;
+  --accent-emerald: #059669;
+  --accent-amber: #d97706;
+
+  /* Typography Stack */
+  --font-main: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', monospace;
+
+  /* Elevation */
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.03), 0 1px 3px rgba(0, 0, 0, 0.02);
+  --shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.06), 0 2px 6px rgba(0, 0, 0, 0.03);
+
+  /* Geometry */
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  /* Layout */
+  --max-width: 1080px;
+  --nav-height: 70px;
+
+  --transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Base Styles */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--nav-height) + 24px);
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--bg-page);
+  color: var(--text-primary);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Accessibility */
+.skip-link {
+  position: absolute;
+  top: -50px;
+  left: 20px;
+  background: var(--text-primary);
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: var(--radius-xs);
+  z-index: 1000;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: top 0.2s ease;
+}
+.skip-link:focus {
+  top: 15px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+button, input, textarea {
+  font: inherit;
+  color: inherit;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-left: 36px;
+    padding-right: 36px;
+  }
+}
+
+/* Section Spacing */
+.portfolio-section {
+  padding: 76px 0;
+  border-top: 1px solid var(--border-hairline);
+}
+
+@media (min-width: 768px) {
+  .portfolio-section {
+    padding: 96px 0;
+  }
+}
+
+/* Section Header (Original, Clean, Editorial) */
+.section-headline-group {
+  margin-bottom: 48px;
+}
+
+.section-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+.section-label::before {
+  content: "";
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-navy);
+}
+
+.section-title {
+  font-size: 2.15rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+  color: var(--text-primary);
+  margin-bottom: 12px;
+}
+
+@media (min-width: 768px) {
+  .section-title {
+    font-size: 2.5rem;
+  }
+}
+
+.section-description {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  max-width: 620px;
+  line-height: 1.7;
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  text-decoration: none;
+}
+
+.btn-primary {
+  background: var(--text-primary);
+  color: #ffffff;
+  border: 1px solid var(--text-primary);
+}
+
+.btn-primary:hover {
+  background: #27272a;
+  border-color: #27272a;
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border: 1px solid var(--border-hairline);
+  box-shadow: var(--shadow-subtle);
+}
+
+.btn-secondary:hover {
+  background: var(--bg-subtle);
+  border-color: var(--text-muted);
+  transform: translateY(-1px);
+}
+
+.btn-sm {
+  padding: 7px 14px;
+  font-size: 0.82rem;
+  border-radius: var(--radius-xs);
+}
